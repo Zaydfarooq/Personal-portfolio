@@ -11,7 +11,7 @@ Like my works and want to support me?
 
 ## Other projects
 
-📚 [All Web Cifar Project Tutorials](https://github.com/zaydfarooq)
+📚 [All other Project Tutorials](https://github.com/zaydfarooq)
   
   
   
